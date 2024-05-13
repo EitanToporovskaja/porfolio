@@ -1,7 +1,7 @@
-function experiencia () {
+function Experiencia () {
        <div></div>
     return{
     
     }
 }
-export default experiencia
+export default Experiencia

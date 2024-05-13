@@ -1,4 +1,4 @@
-function certificaciones () {
+function Certificaciones () {
     
     <div>
     <button href ="#"></button>
@@ -8,4 +8,4 @@ function certificaciones () {
         
     }
 }
-export default certificaciones
+export default Certificaciones

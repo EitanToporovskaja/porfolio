@@ -1,4 +1,4 @@
-function conocimiento () {
+function Conocimiento () {
     
     <div>
     <p> </p>
@@ -7,4 +7,4 @@ function conocimiento () {
         
     }
 }
-export default conocimiento
+export default Conocimiento

@@ -1,4 +1,4 @@
-function contacto () {
+function Contacto () {
     
     <div>
     <p> </p>
@@ -7,4 +7,4 @@ function contacto () {
        
     }
 }
-export default contacto
+export default Contacto

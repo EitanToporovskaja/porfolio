@@ -1,4 +1,4 @@
-function educacion () {
+function Educacion () {
     
     <div>
     <p> </p>
@@ -7,4 +7,4 @@ function educacion () {
         
     }
 }
-export default  educacion
+export default  Educacion
