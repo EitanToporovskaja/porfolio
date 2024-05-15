@@ -3,7 +3,7 @@ import './App.css';
 import AcercaDeMi from './AcercaDeMi';
 import Inicio from './Inicio';
 import Certificaciones from './Certificaciones';
-import Conocimiento from './Conocimientos';
+import Conocimientos from './Conocimientos';
 import Contacto from './Contacto';
 import Educacion from './Educacion';
 import Experiencia from './Experiencia';
@@ -16,8 +16,8 @@ function App() {
     <div className="App">
      <AcercaDeMi nombre={nombre} apellido={apellido} />
       <Inicio nombre={nombre} apellido={apellido} /> 
-      <Certificaciones/>
-      <Conocimiento/>
+      {/* <Certificaciones/>  */}
+      <Conocimientos/>
       <Contacto/>
       <Educacion/>
       <Experiencia/>

@@ -1,10 +1,13 @@
 function Educacion () {
     
-    <div>
-    <p> </p>
-    </div>
-    return{
+
+    return(
+
+        <div>
+        <p> </p>
+        </div>
+    )
         
-    }
+    
 }
 export default  Educacion

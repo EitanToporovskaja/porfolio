@@ -1,10 +1,12 @@
 function Contacto () {
     
-    <div>
-    <p> </p>
-    </div>
-    return{
+
+    return(
+        <div>
+        <p> </p>
+        </div>
+    )
        
-    }
+
 }
 export default Contacto
