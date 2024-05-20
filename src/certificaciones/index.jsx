@@ -1,9 +1,9 @@
+import imageCertificacion from "../images/certificado curso 1.PNG"
 function Certificaciones () {
     
     return(
     <div>
-        <button href ="#"></button>
-        <p> </p>
+        <img src={imageCertificacion} alt="" />        
     </div>
     )
 }

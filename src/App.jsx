@@ -1,12 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import AcercaDeMi from './AcercaDeMi';
-import Inicio from './Inicio';
-import Certificaciones from './Certificaciones';
-import Conocimientos from './Conocimientos';
-import Contacto from './Contacto';
-import Educacion from './Educacion';
-import Experiencia from './Experiencia';
+import AcercaDeMi from './acercaDeMi';
+import Inicio from './inicio';
+import Certificaciones from './certificaciones';
+import Conocimientos from './conocimientos';
+import Contacto from './contacto';
+import Educacion from './educacion';
+import Experiencia from './experiencia';
 
 
 function App() {
@@ -16,7 +15,7 @@ function App() {
     <div className="App">
      <AcercaDeMi nombre={nombre} apellido={apellido} />
       <Inicio nombre={nombre} apellido={apellido} /> 
-      {/* <Certificaciones/>  */}
+      <Certificaciones/>
       <Conocimientos/>
       <Contacto/>
       <Educacion/>

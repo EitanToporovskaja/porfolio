@@ -1,4 +1,5 @@
 import imageEitan from "../images/eitan.jfif"
+
 function AcercaDeMi ({nombre, apellido}) {
     
 
