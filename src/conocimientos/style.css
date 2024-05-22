@@ -1,0 +1,13 @@
+.cono{
+    flex-direction: row-reverse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.h5{
+    flex-direction: row-reverse;
+    display: flex; /*tira para la derecha*/ 
+    justify-content: center;
+    align-items: center; 
+}
