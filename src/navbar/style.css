@@ -1,16 +1,28 @@
 .navbarSupportedContent{
-    display: flexbox;
+    display: flex;
 }
 ul{
     list-style-type: none;
+    background-color: #ccc;
     padding: 0;
 }
 .navbar-nav {
     display: flex;
-    flex-direction: column;
-    padding-left: 0;
-    margin-bottom: 0;
+    flex-direction: row;
     list-style: none;
+    width: 100%;
+    padding: 10px;
+    justify-content: end;
+    position: fixed;
+    top: 0;
+}
+
+.nav-item{
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.nav-link{
+    flex-direction: row;
 }
 .ms-auto {
     margin-left: auto !important;

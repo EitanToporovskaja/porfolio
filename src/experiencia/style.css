@@ -1,7 +1,8 @@
 img{
-    display: block;
-    margin: auto;
-    width: auto;/*centar las img*/
+    display: block; 
+    max-width: 100%;
+    height: auto;
+
 }
 .col-md-6{
     width: 300px;

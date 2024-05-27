@@ -4,3 +4,15 @@
     justify-content: center;
     align-items: center;
 }
+.h4 mb-1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-muted text-small{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
