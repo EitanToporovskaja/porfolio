@@ -1,42 +1,33 @@
 .cono {
-    display: flex;
-    flex-wrap: wrap; 
-    justify-content: center; 
-    padding: 10px;
-  }
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center; 
+  padding: 10px;
+ }
 
-  .cono img {
-    display: block;
-    margin-bottom: 10px; 
-  }
+.cono img {
+  display: block;
+  margin-bottom: 10px; 
+}
 
-  .cono .h5 {
-    text-align: center; 
-    margin-top: 5px; 
-    width: 25%; 
-  }
-  .imgh5{
-    display: block;
-    flex-direction:row;
-    align-items: flex-end;
-    
-  }
-
+.cono .h5 {
+  text-align: center; 
+  margin-top: 5px; 
+  width: 25%; 
+}
+.imgh5{
+  display: block;
+  flex-direction:row;
+  align-items: flex-end;
+  padding: 15px;
+}
 .text-under-image {
-    margin-top: 10px;   
-  }
-
-h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    margin-top: 0;
-    margin-bottom: 1rem;
-    font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-weight: 700;
-    line-height: 1.2;
+  margin-top: 10px;   
 }
 img, svg {
-    vertical-align: middle;
+  vertical-align: middle;
 }
 .col-md-3{
-    flex: 0 0 auto;
-    width: 25%;
+  flex: 0 0 auto;
+  width: 25%;
 }
