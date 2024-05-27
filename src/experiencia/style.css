@@ -1,10 +1,12 @@
-img{
-    display: block; 
-    max-width: 100%;
-    height: auto;
+.imgExp{
+    display:contents; 
+    max-width: 10%;
+    height:auto;
+    border-color: black 10px;
+    padding: 10px;
 
 }
 .col-md-6{
     width: 300px;
-    margin: 0 auto; /*centrar la card de img*/
+    margin: 0 auto;
 }

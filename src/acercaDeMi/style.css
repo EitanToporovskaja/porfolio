@@ -3,7 +3,7 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-}/*hay que centrar los p*/
+}
 .container{
 
     margin-top: 80px
