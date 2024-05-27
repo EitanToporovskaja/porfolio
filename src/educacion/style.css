@@ -1,0 +1,6 @@
+.card-header px-3 py-2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

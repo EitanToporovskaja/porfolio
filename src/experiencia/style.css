@@ -1,3 +1,9 @@
 img{
-    width: auto;/*modifica todas las ims?????*/
+    display: block;
+    margin: auto;
+    width: auto;/*centar las img*/
+}
+.col-md-6{
+    width: 300px;
+    margin: 0 auto; /*centrar la card de img*/
 }
