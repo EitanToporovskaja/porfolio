@@ -1,5 +1,6 @@
 import imagenCertificacion from "../images/certificadoCurso"
 import imagenHackerRank from "../images/certificadoIntermedioHackerRank.png"
+import "./style.css"
 function Experiencia () {
     return(
         <section id="Experiencia">
